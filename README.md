@@ -12,6 +12,14 @@ for more details check that page:
 	
 <b>NOTE: When you create a project with cocos-console, it make in your project dir, the folder `cocos2d`, i don't have upload it because the size in MB it's to big</b>
 
+### Resources<br/>
+
+Download the `ball.png` and `dot.png` and copy it in the Resources folder
+
+<img src="https://raw.githubusercontent.com/oldanidavide/trajectoryPredictionCocos2dx3/master/Example/MyCompany/MyGame/Resources/ball.png" />
+<br/><br/>
+<img src="https://raw.githubusercontent.com/oldanidavide/trajectoryPredictionCocos2dx3/master/Example/MyCompany/MyGame/Resources/dot.png" />
+
 ### Linux Version<br/>
 open your project folder and in the file `CMakeLists.txt` add on line 161 ( on target link libraries ) the box2d
 
