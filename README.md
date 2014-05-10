@@ -259,7 +259,7 @@ and in the `INIT` main function add:
 
 in the header file add:
 
-    Sprite *points[31];
+    Sprite *points[32];
 
 and in the `INIT` main function add:
 
