@@ -34,7 +34,7 @@ public:
     b2BodyDef ballBodyDef;  
     void defineBall();
     
-    Sprite *points[31];
+    Sprite *points[32];
 
 	void addWall(float w,float h,float px,float py);
 	void simulateTrajectory(b2Vec2 coord);
